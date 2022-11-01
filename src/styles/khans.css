@@ -1,0 +1,25 @@
+
+.profile{
+    border: solid 2px black;
+    margin: 50px 120px 0 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+}
+.photo_Khans{
+    max-width: 300px;
+    max-height: 250px;
+    border: solid 1px black;
+    margin: 30px 0 30px 20px;
+    box-shadow: 10px -10px 20px 5px black;
+}
+.text_Khans{
+    font-size: 20px;
+    margin: 20px 30px 20px 30px;
+}
+.list{
+    margin: 200px 120px 0 120px;
+    font-size: 20px;
+    line-height: 24px;
+}

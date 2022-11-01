@@ -1,0 +1,23 @@
+.wars{
+    margin: 50px 120px 0 120px;
+    border: solid 2px black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+}
+.photo_wars{
+    box-shadow: 10px -10px 20px 5px black;
+    width: 500px;
+    height: 300px;
+    margin: 50px 0 30px 20px;
+}
+.text_wars{
+    margin: 30px 30px 20px 30px;
+}
+.wins{
+    float: right;
+}
+.describe_wars{
+    font-size: 20px;
+}

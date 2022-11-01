@@ -1,0 +1,61 @@
+#preContent{
+    margin: 100px 120px 0 120px;
+    display: flex;
+    flex-direction: row;
+}
+.intro{
+    padding: 0 100px 0 0;
+}
+.intro__title{
+    text-align: center;
+}
+.intro__img{
+    margin-top: 200px;
+    border: 3px solid black;
+    box-shadow: 10px -10px 15px 10px black;
+}
+.block{
+    margin: 300px 120px 0 120px;
+    display: flex;
+    flex-direction: row;
+}
+.selector__points{
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    font-family: "oswald: 300px;";
+    font-weight: 200px;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.block__content{
+    padding: 30px 100px 0 80px;
+}
+#cnt{
+    margin: 200px 120px 1500px 120px;
+}
+.photo{
+    position: absolute;
+    border-radius: 40px;
+    height: 924px;
+    width: 1300px;
+}
+.photo_elements{
+    position: absolute;
+    margin: 565px 230px 30px 800px;
+    color: white;
+}
+.alga{
+    margin-left: 220px;
+    height: 50px;
+    width: 120px;
+    border-radius: 10px;
+    border-color: white;
+}
+.alga:hover{
+    transition: all 0.3s ease-out;
+    background-color: rgba(19, 181, 179, 0.8);
+    border-color: rgba(19, 181, 179, 0.8);;
+}
