@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/first-react-app/static/css/main.d9ff47f4.css",
-    "main.js": "/first-react-app/static/js/main.0eeba7a5.js",
+    "main.js": "/first-react-app/static/js/main.6528b01a.js",
     "static/media/anyrakay.jpg": "/first-react-app/static/media/anyrakay.ecaf5c1c047523771c83.jpg",
     "static/media/oral.jpg": "/first-react-app/static/media/oral.a8c7ea48ac628e1f80b7.jpg",
     "static/media/moscow.jpg": "/first-react-app/static/media/moscow.cbfc206e08f4bafa781f.jpg",
@@ -20,10 +20,10 @@
     "static/media/taraz.jpeg": "/first-react-app/static/media/taraz.6a513a1bbb3ae3f85ff1.jpeg",
     "index.html": "/first-react-app/index.html",
     "main.d9ff47f4.css.map": "/first-react-app/static/css/main.d9ff47f4.css.map",
-    "main.0eeba7a5.js.map": "/first-react-app/static/js/main.0eeba7a5.js.map"
+    "main.6528b01a.js.map": "/first-react-app/static/js/main.6528b01a.js.map"
   },
   "entrypoints": [
     "static/css/main.d9ff47f4.css",
-    "static/js/main.0eeba7a5.js"
+    "static/js/main.6528b01a.js"
   ]
 }
