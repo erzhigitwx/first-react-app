@@ -7,14 +7,11 @@ import './styles/khans.css'
 import './styles/wars.css'
 import './styles/centers.css'
 import './styles/info.css'
-import { HashRouter } from "react-router-dom";
 
 function App() {
   return (
     <>
-      <HashRouter>
-        <Navbar />
-      </HashRouter>  
+      <Navbar />
       <Footer />
     </>
   );
