@@ -21,7 +21,6 @@ function Navbar() {
               </Route>
             </Routes>
           </Router>
-          
     </div>
     );
 }
