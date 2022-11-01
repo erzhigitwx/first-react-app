@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.d9ff47f4.css",
+    "main.js": "/first-react-app/static/js/main.f5b89f3a.js",
+    "static/media/anyrakay.jpg": "/first-react-app/static/media/anyrakay.ecaf5c1c047523771c83.jpg",
+    "static/media/oral.jpg": "/first-react-app/static/media/oral.a8c7ea48ac628e1f80b7.jpg",
+    "static/media/moscow.jpg": "/first-react-app/static/media/moscow.cbfc206e08f4bafa781f.jpg",
+    "static/media/qasym.jpg": "/first-react-app/static/media/qasym.bb5d55ffcad035d8a4a0.jpg",
+    "static/media/turkistan.jpeg": "/first-react-app/static/media/turkistan.4cfe93506c8b81fb997b.jpeg",
+    "static/media/avatar.png": "/first-react-app/static/media/avatar.83aed7d51be48663f3c2.png",
+    "static/media/shym.jpeg": "/first-react-app/static/media/shym.901bb1d3e658259c9c65.jpeg",
+    "static/media/tashkent.jpg": "/first-react-app/static/media/tashkent.1342806d678cf8a7c405.jpg",
+    "static/media/batyrs.JPEG": "/first-react-app/static/media/batyrs.cba6b14d3fc8320c33a2.JPEG",
+    "static/media/janibek.jpg": "/first-react-app/static/media/janibek.b72829fc6f6bd67b2463.jpg",
+    "static/media/orbulak.jpg": "/first-react-app/static/media/orbulak.1331a40393d81e997f3e.jpg",
+    "static/media/bishkek.jpg": "/first-react-app/static/media/bishkek.992ad7a1fed70908ae74.jpg",
+    "static/media/Buryndyq.webp": "/first-react-app/static/media/Buryndyq.7bc343c36480e6280f26.webp",
+    "static/media/bulanty.jpg": "/first-react-app/static/media/bulanty.7cb29987181c5830cbfd.jpg",
+    "static/media/flags.png": "/first-react-app/static/media/flags.f1a4df2e734df4951d51.png",
+    "static/media/taraz.jpeg": "/first-react-app/static/media/taraz.6a513a1bbb3ae3f85ff1.jpeg",
+    "index.html": "/first-react-app/index.html",
+    "main.d9ff47f4.css.map": "/first-react-app/static/css/main.d9ff47f4.css.map",
+    "main.f5b89f3a.js.map": "/first-react-app/static/js/main.f5b89f3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ff47f4.css",
+    "static/js/main.f5b89f3a.js"
+  ]
+}
